@@ -1,2 +1,2 @@
 # bookbot
-bookbot course for boot.dev
+Boot.dev's first guided course to create a bookbot with Python.
